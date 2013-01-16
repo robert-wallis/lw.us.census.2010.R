@@ -1,0 +1,11 @@
+# R Studio and misc. R Files
+.Rhistory
+.Rdata
+.Rproj.user
+
+# Census Data
+*2010.sf1
+*.zip
+
+# Example code in package build process
+*-Ex.R
